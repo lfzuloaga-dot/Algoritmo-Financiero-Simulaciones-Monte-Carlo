@@ -12,7 +12,7 @@ Estacionalidad Mensual: Índices que reflejan variaciones en la demanda y riesgo
 Análisis Estadístico: Media, desviación estándar, mínimo, máximo y coeficiente de variación (CV).
 Visualización: Boxplot comparativo de pérdidas por mes para identificar dispersión y riesgo.
 
-##Recursos Solicitados
+## Recursos Utilizados
 
 Lenguaje: Python
 Librerías: NumPy, Pandas, Matplotlib, Seaborn
@@ -26,12 +26,3 @@ El proyecto sigue una estructura simple y clara:
 └── /figuras
     └── boxplot_perdidas.png
 
-## Instalacion y Setup
-Para ejecutar el proyecto localmente:
-Clona el repositorio:
-Shellgit clone https://github.com/usuario/simulacion-perdidas.gitcd simulacion-perdidasMostrar más líneas
-Instala dependencias:
-Shellpip install -r requirements.txtMostrar más líneas
-Ejecuta el script:
-Shellpython simulacion_perdidas.pyMostrar más líneas
-El resultado mostrará estadísticas en consola y un gráfico boxplot interactivo.
