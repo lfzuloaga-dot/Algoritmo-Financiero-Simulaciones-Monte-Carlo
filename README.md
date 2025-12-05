@@ -17,6 +17,7 @@ Visualización: Boxplot comparativo de pérdidas por mes para identificar disper
 ## Recursos Utilizados
 
 Lenguaje: Python
+
 Librerías: NumPy, Pandas, Matplotlib, Seaborn
 
 ## Estructura
