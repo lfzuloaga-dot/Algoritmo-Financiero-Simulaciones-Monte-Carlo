@@ -8,21 +8,21 @@ Este proyecto implementa un modelo de simulación Monte Carlo para estimar pérd
 
 ## Key Features
 
-* **Simulación Estocástica: 1000 iteraciones por mes para estimar pérdidas bajo incertidumbre.
+* Simulación Estocástica: 1000 iteraciones por mes para estimar pérdidas bajo incertidumbre.
 
-* **Factores Financieros: Ajuste por inflación y costo de oportunidad calculados a nivel diario.
+* Factores Financieros: Ajuste por inflación y costo de oportunidad calculados a nivel diario.
 
-* **Estacionalidad Mensual: Índices que reflejan variaciones en la demanda y riesgo por mes.
+* Estacionalidad Mensual: Índices que reflejan variaciones en la demanda y riesgo por mes.
 
-* **Análisis Estadístico: Media, desviación estándar, mínimo, máximo y coeficiente de variación (CV).
+* Análisis Estadístico: Media, desviación estándar, mínimo, máximo y coeficiente de variación (CV).
 
-* **Visualización: Boxplot comparativo de pérdidas por mes para identificar dispersión y riesgo.
+* Visualización: Boxplot comparativo de pérdidas por mes para identificar dispersión y riesgo.
 
 ## Recursos Utilizados
 
-Lenguaje: Python
+* Lenguaje: Python
 
-Librerías: NumPy, Pandas, Matplotlib, Seaborn
+* Librerías: NumPy, Pandas, Matplotlib, Seaborn
 
 ## Estructura
 El proyecto sigue una estructura simple y clara:
