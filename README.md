@@ -5,14 +5,18 @@ El presente algoritmo realiza una simulación Monte Carlo para estimar pérdidas
 ## Simulación de Pérdidas: Modelo Monte Carlo
 
 Este proyecto implementa un modelo de simulación Monte Carlo para estimar pérdidas económicas derivadas de aviones no registrados. Considera costos base, tasas financieras diarias (inflación y costo de oportunidad) y factores estacionales mensuales, ofreciendo análisis estadístico y visualización clara.
-Key Features
 
-## Simulación Estocástica: 1000 iteraciones por mes para estimar pérdidas bajo incertidumbre.
+## Key Features
 
-Factores Financieros: Ajuste por inflación y costo de oportunidad calculados a nivel diario.
-Estacionalidad Mensual: Índices que reflejan variaciones en la demanda y riesgo por mes.
-Análisis Estadístico: Media, desviación estándar, mínimo, máximo y coeficiente de variación (CV).
-Visualización: Boxplot comparativo de pérdidas por mes para identificar dispersión y riesgo.
+* ** Simulación Estocástica: 1000 iteraciones por mes para estimar pérdidas bajo incertidumbre.
+
+* ** Factores Financieros: Ajuste por inflación y costo de oportunidad calculados a nivel diario.
+
+* ** Estacionalidad Mensual: Índices que reflejan variaciones en la demanda y riesgo por mes.
+
+* ** Análisis Estadístico: Media, desviación estándar, mínimo, máximo y coeficiente de variación (CV).
+
+* **Visualización: Boxplot comparativo de pérdidas por mes para identificar dispersión y riesgo.
 
 ## Recursos Utilizados
 
